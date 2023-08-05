@@ -108,11 +108,16 @@ a{
   justify-content: center;
   align-items: center;
 
+
+  
+  gap: 20px;
+
 }
 
 .subtittle{
-  margin-top: 20px;
-  margin-left: 125px;
-  margin-right: 126px;
+  
+  align-self: flex-start;
+  margin-left: 126px ;
+
 }
 
